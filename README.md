@@ -17,13 +17,11 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img width="800px" src="https://github.com/j-nary/j-nary/blob/master/logo_unscreen.gif" />
-  <img src="https://github-readme-stats.vercel.app/api?username=j-nary&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-nary&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sleepingco&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sleepingco&layout=compact" />
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sleepingco&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sleepingco)
+
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
