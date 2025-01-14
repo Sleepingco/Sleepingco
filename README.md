@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 -->
 
 <h3 align="center">Tech Stack</h3>
-
+<span style=font=size="18px">💡used as the main</span><br>
 <div align="center">
   <span>Backend</span><br>
-  <span>💡used as the main</span><br>
+  
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white" alt="JAVA">
   <img src="https://img.shields.io/badge/JSP-ec8b00?style=for-the-badge&logo=jsp&logoColor=white" alt="JSP">
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="SpringBoot">
