@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+  <img width="800px" src="https://github.com/j-nary/j-nary/blob/master/logo_unscreen.gif" />
+  <img src="https://github-readme-stats.vercel.app/api?username=j-nary&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-nary&layout=compact" />
+</div>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sleepingco&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sleepingco)
 
