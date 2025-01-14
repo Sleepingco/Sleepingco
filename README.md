@@ -50,8 +50,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/OCI-146EB4?style=for-the-badge&logo=oracle&logoColor=white" alt="OCI">
 </div>
 
-<span>💡used at least once</span>
 <div align="center">
+<span>💡used at least once</span>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio">
 </div>
