@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
-  <span>Backend</span>
+  <span>Backend</span><br>
   <img src=https://img.shields.io/badge/JAVA-red>
   <img src=https://img.shields.io/badge/JSP-orange>
   <img src=https://img.shields.io/badge/SpringBoot-green>
