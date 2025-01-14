@@ -17,8 +17,11 @@ Here are some ideas to get you started:
 -->
 
 <h3 align="center">Tech Stack</h3>
+
 <div align="center">
   <span>Backend</span><br>
+  <span>💡used as the main</span>
+  <span
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white" alt="JAVA">
   <img src="https://img.shields.io/badge/JSP-ec8b00?style=for-the-badge&logo=jsp&logoColor=white" alt="JSP">
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="SpringBoot">
@@ -46,6 +49,12 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
   <img src="https://img.shields.io/badge/OCI-146EB4?style=for-the-badge&logo=oracle&logoColor=white" alt="OCI">
+</div>
+
+<span>💡used at least once</span>
+<div align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio">
 </div>
 
 <div align="center">
