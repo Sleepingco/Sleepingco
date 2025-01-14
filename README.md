@@ -41,8 +41,9 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-  <img src=[https://img.shields.io/badge/VSCODE](https://img.shields.io/visual-studio-marketplace/i/:extensionId
-)>
+   <img src= https://img.shields.io/visual-studio-marketplace/i/:extensionId>
+ 
+  <img src=https://img.shields.io/badge/VSCODE>
   
   <img src=https://img.shields.io/badge/Eclipes-#181717>
   <img src=https://img.shields.io/badge/Notiont-#000000>
