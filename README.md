@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sleepingco&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sleepingco)
 
-https://img.shields.io/badge/JAVA-red
+<img src=https://img.shields.io/badge/JAVA-red>
 
 
