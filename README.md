@@ -16,13 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sleepingco&show_icons=true&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sleepingco&layout=compact" />
-</div>
-
-
-
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <span>Backend</span><br>
@@ -46,3 +39,13 @@ Here are some ideas to get you started:
   <img src=https://img.shields.io/badge/JavaScript-yellow>
   <img src=https://img.shields.io/badge/React-skyblue>
 </div>
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sleepingco&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sleepingco&layout=compact" />
+</div>
+
+
+
+
