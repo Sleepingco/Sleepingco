@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sleepingco&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sleepingco&show_icons=true&theme=dark" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sleepingco&layout=compact" />
 </div>
 
@@ -25,7 +25,10 @@ Here are some ideas to get you started:
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
-  <img src=https://img.shields.io/badge/JAVA-red>  
+  <img src=https://img.shields.io/badge/JAVA-red>
+  <img src=https://img.shields.io/badge/JAVA-red>
+  <img src=https://img.shields.io/badge/JAVA-red>
+  <img src=https://img.shields.io/badge/JAVA-red>
 </div>
 
 
