@@ -1,5 +1,6 @@
 ## 안녕하세요 👋 박성호 입니다.
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome-nl-Sleepingco's%20profile&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=skyblue&height=300&section=header&text=welcome&fontSize=90&textColor=white&subtitle=Sleepingco's%20profile&subtitleSize=30&subtitleAlign=right)
+
 <!--
 **Sleepingco/Sleepingco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
