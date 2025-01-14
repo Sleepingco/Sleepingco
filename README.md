@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-<span>💡used at least once</span>
+<span>💡used at least once</span><br>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio">
 </div>
