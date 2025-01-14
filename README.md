@@ -25,9 +25,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/JSP-ec8b00?style=for-the-badge&logo=jsp&logoColor=white" alt="JSP">
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="SpringBoot">
 </div>
-
 <br>
-
 <div align="center">
   <span>Frontend</span><br>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
