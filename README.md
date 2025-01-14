@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sleepingco&show_icons=true&theme=dark)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sleepingco)
-<div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sleepingco&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sleepingco)
+
+https://img.shields.io/badge/JAVA-red
 
 
