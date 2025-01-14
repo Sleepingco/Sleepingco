@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 <h3 align="center">Tech Stack</h3>
-<span align="center">💡used as the main</span><br>
+<p align="center">💡used as the main</p><br>
 <div align="center">
   <span>Backend</span><br>
   
