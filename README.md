@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 <h3 align="center">Tech Stack</h3>
-<span style=font=size="18px">💡used as the main</span><br>
+<span style= "font-size:18px;">💡used as the main</span><br>
 <div align="center">
   <span>Backend</span><br>
   
