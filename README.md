@@ -49,13 +49,13 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
   <img src="https://img.shields.io/badge/OCI-146EB4?style=for-the-badge&logo=oracle&logoColor=white" alt="OCI">
 </div>
-
+<br>
 <div align="center">
 <span>💡used at least once</span><br>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio">
 </div>
-
+<br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sleepingco&show_icons=true&theme=dark" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sleepingco&layout=compact" />
