@@ -39,6 +39,7 @@ Here are some ideas to get you started:
   <img src=https://img.shields.io/badge/Notion-#000000>
   <img src=https://img.shields.io/badge/React-skyblue>
 </div>
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json)
 
 <div align="center">
   <img src=https://img.shields.io/badge/VSCODE>
